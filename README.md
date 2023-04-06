@@ -4,7 +4,8 @@
 
 # Aerospace Projects
 
-In this repository I will try to collect all the projects that I did during my degree in Universidad de Sevilla.
+In this repository I will try to collect all the undertaken projects during my degree at Universidad de Sevilla.
+The following projects are included in this repository:
 
 - [Analysis of Boundary Layer transition on NACA profiles](https://github.com/jesus-jpeg/AerospaceProjects/tree/main/Analysis%20of%20Boundary%20Layer%20transition%20on%20NACA%20profiles)
 
@@ -17,7 +18,9 @@ In this repository I will try to collect all the projects that I did during my d
 - [Moon Lander structural design](https://github.com/jesus-jpeg/AerospaceProjects/tree/main/Moon%20Lander%20structural%20design)
 
 
-## Software used
+## Software
+
+The following software programs were used in these projects:
 
 - MATLAB: high-level programming language and numerical computing environment that is widely used in engineering, science, and mathematics.
 
