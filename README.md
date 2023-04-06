@@ -1,5 +1,4 @@
-![logo-etsi-us](https://user-images.githubusercontent.com/121881874/230325425-de534b49-3f49-417a-818c-22b2fb70da14.svg)
-
+<img src=https://user-images.githubusercontent.com/121881874/230329414-6495e79c-cac6-4778-a191-bc15f6c307d5.png" width="425"/> <img src="https://user-images.githubusercontent.com/121881874/230328697-43900507-2033-4ae8-84ce-a807c5c4d80b.png" width="425"/> 
 
 # AerospaceProjects
 
