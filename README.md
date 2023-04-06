@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/121881874/230328697-43900507-2033-4ae8-84ce-a807c5c4d80b.png" width="500"/>  <img src="https://user-images.githubusercontent.com/121881874/230329414-6495e79c-cac6-4778-a191-bc15f6c307d5.png" width="200"/> 
+<img src="https://user-images.githubusercontent.com/121881874/230338407-c2bfdbee-906b-4f76-916a-8f87ddb7f18b.png" width="75%"/>
 </p>
 
 # Aerospace Projects
