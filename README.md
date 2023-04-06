@@ -1,6 +1,8 @@
-<img src=https://user-images.githubusercontent.com/121881874/230329414-6495e79c-cac6-4778-a191-bc15f6c307d5.png" width="425"/> <img src="https://user-images.githubusercontent.com/121881874/230328697-43900507-2033-4ae8-84ce-a807c5c4d80b.png" width="425"/> 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/121881874/230328697-43900507-2033-4ae8-84ce-a807c5c4d80b.png" width="500"/>  <img src="https://user-images.githubusercontent.com/121881874/230329414-6495e79c-cac6-4778-a191-bc15f6c307d5.png" width="200"/> 
+</p>
 
-# AerospaceProjects
+# Aerospace Projects
 
 In this repository I will try to collect all the projects that I did during my degree in Universidad de Sevilla.
 The softwares used are the following:
